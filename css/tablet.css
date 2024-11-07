@@ -1,0 +1,28 @@
+@media (max-width: 881px) {
+  header {
+    padding-inline: 24px;
+  }
+  /* header  */
+  .header_section_nav {
+    display: none;
+  }
+
+  .header_butt {
+    display: none;
+  }
+  .burger_icon {
+    display: block;
+  }
+  /* body */
+  .section1 {
+    padding-top: 80px;
+  }
+  /* sec 2 */
+  .section2 {
+    padding: 24px 0 24px 24px;
+  }
+  /* footer */
+  footer {
+    padding: 24px 0;
+  }
+}

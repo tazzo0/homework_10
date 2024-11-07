@@ -1,0 +1,35 @@
+@media (max-width: 481px) {
+  /* header */
+  header {
+    padding-inline: 8px;
+  }
+  /* body */
+  .section1 {
+    padding-top: 60px;
+  }
+  .main_title {
+    font-size: 32px;
+    line-height: 40px;
+  }
+
+  .section2 {
+    padding-left: 8px;
+    row-gap: 24px;
+  }
+  .section2_title {
+    font-size: 24px;
+    line-height: 32px;
+  }
+
+  .section2_cards_section_article {
+    flex: 1 0 260px;
+  }
+  /* footer */
+  footer {
+    flex-wrap: wrap;
+    row-gap: 32px;
+  }
+  .footer_sec {
+    flex: 1 1 100%;
+  }
+}

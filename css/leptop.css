@@ -1,0 +1,20 @@
+@media (max-width: 1301px) {
+  /* sec 1 */
+  .section1 {
+    padding-top: 100px;
+  }
+  /* sec2 */
+  .section2 {
+    padding: 64px 0 64px 64px;
+  }
+  .section2_cards_section {
+    overflow-x: scroll;
+  }
+  .section2_cards_section_article {
+    flex: 1 0 298px;
+  }
+  /* footer */
+  footer {
+    padding: 64px 0;
+  }
+}
