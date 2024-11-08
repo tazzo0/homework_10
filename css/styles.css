@@ -117,8 +117,15 @@ h5 {
   color: #dee2eb;
 }
 .section2_cards_section_article_article_cart_button {
-  background-color: #311500;
-  border: none;
+ 
+  background: #C46A2B;
+  width: 27px;
+  height: 27px;
+  padding: 6px 6px 5px 5px;
+  border-radius: 8px ;
+  border: 1px solid #DEE2EB
+  
+  
 }
 
 .price_button {
